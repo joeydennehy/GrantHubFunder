@@ -1,0 +1,9 @@
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApp1\obj\Debug\ExcelDedupe.csprojResolveAssemblyReference.cache
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApp1\obj\Debug\ExcelDedupe.csproj.ResolveComReference.cache
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApp1\bin\Debug\ExcelReadWrite.dll
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApp1\bin\Debug\ExcelReadWrite.pdb
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApp1\bin\Debug\ExcelDedupe.exe.config
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApp1\bin\Debug\ExcelDedupe.exe
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApp1\bin\Debug\ExcelDedupe.pdb
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApp1\obj\Debug\ExcelDedupe.exe
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApp1\obj\Debug\ExcelDedupe.pdb

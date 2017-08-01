@@ -1,0 +1,10 @@
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\ExcelReadWrite.dll
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\ExcelReadWrite.pdb
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\ExcelReadWrite.dll
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\ExcelReadWrite.pdb
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\ExcelReadWrite.csprojResolveAssemblyReference.cache
+C:\Users\joey.dennehy\Documents\CodeBase\ConsoleApplication1\ClassLibrary1\bin\Debug\ExcelReadWrite.dll
+C:\Users\joey.dennehy\Documents\CodeBase\ConsoleApplication1\ClassLibrary1\bin\Debug\ExcelReadWrite.pdb
+C:\Users\joey.dennehy\Documents\CodeBase\ConsoleApplication1\ClassLibrary1\obj\Debug\ExcelReadWrite.csprojResolveAssemblyReference.cache
+C:\Users\joey.dennehy\Documents\CodeBase\ConsoleApplication1\ClassLibrary1\obj\Debug\ExcelReadWrite.dll
+C:\Users\joey.dennehy\Documents\CodeBase\ConsoleApplication1\ClassLibrary1\obj\Debug\ExcelReadWrite.pdb

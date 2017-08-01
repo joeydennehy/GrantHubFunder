@@ -1,0 +1,6 @@
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\OrganizationComparison\bin\Debug\OrganizationComparison.exe.config
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\OrganizationComparison\bin\Debug\OrganizationComparison.exe
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\OrganizationComparison\bin\Debug\OrganizationComparison.pdb
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\OrganizationComparison\obj\Debug\OrganizationComparison.csprojResolveAssemblyReference.cache
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\OrganizationComparison\obj\Debug\OrganizationComparison.exe
+C:\Users\joey.dennehy\Documents\Visual Studio 2013\Projects\ConsoleApplication1\OrganizationComparison\obj\Debug\OrganizationComparison.pdb
